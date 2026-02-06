@@ -184,6 +184,3 @@ while True:
         break
     else:
         continue
-
-#próximas:
-#seno, cosseno, tangente, euller, pi, log, ln

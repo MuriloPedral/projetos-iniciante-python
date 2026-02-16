@@ -1,6 +1,3 @@
-#mostrar intervalo de números para usuário
-#Meu amor escreveu as opções, não apagar
-
 import random
 
 print('---Jogo de Adivinhação part 2---')

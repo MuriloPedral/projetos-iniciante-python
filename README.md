@@ -22,9 +22,9 @@ Dentro de cada projeto, o código costuma ser dividido em versões:
 
 * **V1** → implementação inicial
 * **V2** → aplicação de novos conceitos aprendidos
-* **versão final** → código mais organizado, validado e robusto
+* **V3** → código mais organizado, validado e robusto
 
-Essa estrutura foi pensada para **evidenciar a evolução técnica e o raciocínio do programador ao longo do tempo**.
+Essa estrutura foi pensada para **evidenciar a minha evolução técnica e raciocínio ao longo do tempo**.
 
 ---
 
@@ -36,11 +36,11 @@ Ao longo dos projetos, foram praticados conceitos fundamentais de Python e progr
 * Condicionais (`if`, `elif`, `else`)
 * Funções e reutilização de código
 * Validação de entrada do usuário
-* Uso de listas para histórico e estado do programa
+* Uso de listas, dicionários para histórico e estado do programa
 * Organização e legibilidade de código
 * Refatoração e melhoria incremental
 
-Todos os projetos foram feitos **sem frameworks**, utilizando apenas recursos nativos da linguagem.
+Todos os projetos tem intenção de não utilzar **frameworks**, utilizando apenas recursos nativos da linguagem.
 
 ---
 
@@ -48,10 +48,10 @@ Todos os projetos foram feitos **sem frameworks**, utilizando apenas recursos na
 
 Alguns projetos merecem atenção especial:
 
-* **Projeto 1** — Soma interativa com validação de entrada
-* **Projeto 2** — Verificador de faixa etária com base em regras definidas
-* **Projeto 3** — Calculadora com múltiplas operações, histórico e funções
-* **Projeto 4** — Conversor de temperaturas com múltiplas escalas
+* **Projeto 2** — Calculadora com múltiplas operações, histórico e funções
+* **Projeto 3** — Conversor de temperaturas com múltiplas escalas
+* **Projeto 6** — 
+* **Projeto 9** — 
 
 Esses projetos mostram uma progressão clara no uso de lógica, funções e organização.
 
